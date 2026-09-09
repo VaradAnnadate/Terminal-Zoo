@@ -1,0 +1,24 @@
+{
+  "name": "zoo",
+  "version": "1.0.0",
+  "description": "A portable, text-based virtual zoo built with plain Node.js. It is designed for schools, museums, and environmental learning sessions where a full graphical interface is not available.",
+  "homepage": "https://github.com/VaradAnnadate/Terminal-Zoo#readme",
+  "bugs": {
+    "url": "https://github.com/VaradAnnadate/Terminal-Zoo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaradAnnadate/Terminal-Zoo.git"
+  },
+  "license": "MIT",
+  "author": "Varad",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^8.7.2",
+    "chalk": "^6.0.0"
+  }
+}
